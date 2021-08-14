@@ -1,17 +1,6 @@
-/**
- *Submitted for verification at BscScan.com on 2021-05-14
-*/
-
-/**
- *Submitted for verification at BscScan.com on 2021-04-16
-*/
-
-// SPDX-License-Identifier: MIT
-
-/*
 MIT License
 
-Copyright (c) 2020 DITTO Money
+Copyright (c) 2021 DITTO Money
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
